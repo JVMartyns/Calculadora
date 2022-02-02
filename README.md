@@ -1,2 +1,2 @@
-# Calculadora
-This is a simple calculator made in python, which uses tkinter GUI.
+## Calculadora
+#This is a simple calculator make with python, which uses tkinter GUI.
