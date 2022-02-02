@@ -1,5 +1,5 @@
 """
-This is a simple calculator made in python, which uses tkinter GUI.
+This is a simple calculator make with python, which uses tkinter GUI.
 """
 from tkinter import *
 
